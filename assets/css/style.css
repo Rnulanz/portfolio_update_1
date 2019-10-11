@@ -1,0 +1,119 @@
+
+
+
+#index{
+    text-align: center;
+}
+
+
+.card-group{
+    margin: 2%
+}
+
+.pro-pic{
+    height: 40%;
+    width: 40%;
+}
+
+body{
+    background: lightblue;
+    font-family: 'Saira Stencil One', cursive;
+}
+
+
+img, .pro2 , .soft2,.pro1 ,.soft1 {
+        width: 100%;
+        height: auto;
+}
+
+.par1{
+    margin-left: 10px;
+    text-indent: 20px;
+    font-size: 25px
+}
+
+.frontEnd{
+  text-align: left;
+}
+
+.par3{
+    text-indent: 20px;
+}
+.cont1{
+    background-color: whitesmoke; 
+}
+.name{
+    font-size: 30px;
+    text-align: center;
+    margin: 0px 0px -70px 0px;  
+   
+}
+#id{
+    background-color: whitesmoke;
+}
+.me, .cont ,#development{
+    font-size: 35px;
+    border-bottom: solid black 2px;
+    text-align: center;
+}
+
+.container{
+    background: white;
+    max-width: 90%;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.wrapper{
+    background:pink;
+    max-width:100%;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.wrapper2{
+    margin: -20px 0px 0px 0px;
+    background:black;
+    color: white;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+}
+
+.footer{
+    text-align: right;
+}
+
+.btn{
+margin-top: 20px;
+background: yellow;
+color:purple;
+cursor: pointer;
+}
+
+.btn:hover{
+    background-color: blue;
+}
+
+
+@media (max-width: 575px) { 
+    .name{
+        margin: 80px 0px 0px 0px;
+        padding: 40px
+    }
+
+    .nav{
+        margin-right: 100px;;
+    }
+
+    .container{
+        border-top-left-radius: unset;
+    }
+ }
+
+
+@media (max-width: 768px) {
+
+    .name{margin: 80px 0px 0px 0px}
+ }
