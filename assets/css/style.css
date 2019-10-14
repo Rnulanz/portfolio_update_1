@@ -1,6 +1,4 @@
 
-
-
 #index{
     text-align: center;
 }
@@ -21,11 +19,13 @@ body{
 }
 
 
-img, .pro2 , .soft2,.pro1 ,.soft1 {
-        width: 100%;
+img, .pro1{
+        width: 75%;
         height: auto;
 }
-
+.git, .nav-link, .name{
+    color: black;
+}
 .par1{
     margin-left: 10px;
     text-indent: 20px;
