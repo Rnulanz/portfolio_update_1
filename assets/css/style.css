@@ -13,9 +13,12 @@
     width: 40%;
 }
 
+#email{
+    color: black;
+}
 body{
-    background: lightblue;
-    font-family: 'Saira Stencil One', cursive;
+    background: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
@@ -34,7 +37,7 @@ img, .pro1{
 }
 
 .frontEnd{
-  text-align: left;
+    text-align: left;
 }
 
 .par3{
@@ -52,7 +55,7 @@ img, .pro1{
 #id{
     background-color: whitesmoke;
 }
-.me, .cont ,#development{
+.me, .cont ,#development, #development2{
     font-size: 35px;
     border-bottom: solid black 2px;
     text-align: center;
@@ -66,7 +69,7 @@ img, .pro1{
 }
 
 .wrapper{
-    background:pink;
+    background-color: silver;;
     max-width:100%;
     margin: 20px auto;
     padding: 20px;
